@@ -1,0 +1,14 @@
+.nose {
+    background-color: #2ecc71; /* Color verde */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;     /* Quita la línea de abajo */
+    border-radius: 5px;        /* Bordes redondeados */
+    display: inline-block;     /* Permite que tenga margen y padding */
+    font-family: sans-serif;
+    transition: 0.3s;          /* Para que el cambio de color sea suave */
+}
+
+.nose:hover {
+    background-color: #27ae60; /* Color un poco más oscuro al pasar el mouse */
+}
